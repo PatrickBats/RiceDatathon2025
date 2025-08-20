@@ -181,8 +181,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Rice Datathon 2025 organizers
 - Neurotech@Rice for providing the dataset
-- Open-source community for the amazing tools
-
 ---
 
-**Note**: This project is for educational and competition purposes. The models are not intended for clinical diagnosis.
+
