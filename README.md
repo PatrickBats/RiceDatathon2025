@@ -1,9 +1,6 @@
 # EEG-Based Neurological Disorder Classification
 ## Rice Datathon 2025 - Neurotech Track 🥈
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-2nd_Place-silver)](https://datathon.rice.edu/)
 
 **🏆 2nd Place Winner - Rice Datathon 2025 Neurotech@Rice Track**
 
