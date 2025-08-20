@@ -1,9 +1,6 @@
 # EEG-Based Neurological Disorder Classification
 ## Rice Datathon 2025 - Neurotech Track 🥈
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-2nd_Place-silver)](https://datathon.rice.edu/)
 
 **🏆 2nd Place Winner - Rice Datathon 2025 Neurotech@Rice Track**
 
@@ -184,4 +181,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Rice Datathon 2025 organizers
 - Neurotech@Rice for providing the dataset
+- Open-source community for the amazing tools
+
 ---
+
+**Note**: This project is for educational and competition purposes. The models are not intended for clinical diagnosis.
