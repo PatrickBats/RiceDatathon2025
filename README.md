@@ -19,7 +19,7 @@ This project was developed for the Rice Datathon 2025 Neurotech Track, focusing 
 - Implement robust machine learning pipelines
 - Achieve high accuracy while handling class imbalance
 
-## 📊 Dataset
+##  Dataset
 
 The dataset contains EEG recordings with the following characteristics:
 - **Training samples**: ~1,500 subjects
@@ -37,8 +37,6 @@ The dataset contains EEG recordings with the following characteristics:
 - `Train_and_Validate_EEG.csv`: Training and validation data
 - `Test_Set_EEG.csv`: Test data for final predictions
 - Features include absolute band powers (AB) across different frequency bands (theta, alpha, beta, gamma, delta)
-
-## 🚀 Quick Start
 
 ### Prerequisites
 ```bash
@@ -109,10 +107,9 @@ RiceDatathon2025/
 ├── docs/                                 # Documentation
 ├── requirements.txt                      # Python dependencies
 ├── README.md                            # This file
-└── CLAUDE.md                            # AI assistant documentation
 ```
 
-## 🤖 Models Implemented
+##  Models Implemented
 
 ### 1. XGBoost (Primary Model)
 - **Best performing model** with highest accuracy
@@ -135,7 +132,7 @@ RiceDatathon2025/
 - L2 regularization
 - Useful for understanding individual disorder patterns
 
-## 📈 Data Processing Pipeline
+##  Data Processing Pipeline
 
 1. **Data Cleaning**
    - Remove unnecessary columns (ID, date, specific disorder)
@@ -150,13 +147,13 @@ RiceDatathon2025/
    - Correlation-based feature selection
    - Removal of redundant EEG channels
 
-## 🔬 Key Findings
+##  Key Findings
 
 - **Feature Importance**: Certain EEG frequency bands show stronger predictive power
 - **Class Performance**: Some disorders (e.g., Schizophrenia) are easier to identify than others
 - **Correlation Patterns**: High correlation within frequency bands across electrodes
 
-## 📊 Model Performance
+##  Model Performance
 
 | Model | Validation Accuracy | Key Strengths |
 |-------|-------------------|---------------|
@@ -165,34 +162,26 @@ RiceDatathon2025/
 | Random Forest | ~72% | Good ensemble performance |
 | Logistic Regression | 69-91% (binary) | Excellent for specific disorders |
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Data Processing**: Pandas, NumPy
 - **Machine Learning**: Scikit-learn, XGBoost
 - **Visualization**: Matplotlib, Seaborn
 - **Development**: Jupyter Notebook
 
-## 📚 References
+##  References
 
 1. Park, S. M. (2021, August 16). EEG machine learning. Retrieved from [osf.io/8bsv](https://osf.io/8bsv)
 2. [Scikit-learn Documentation](https://scikit-learn.org/)
 3. [XGBoost Documentation](https://xgboost.readthedocs.io/)
 4. [Gradient Boosting Decision Trees Introduction](https://www.machinelearningplus.com/machine-learning/an-introduction-to-gradient-boosting-decision-trees/)
 
-## 👥 Team
-
-Developed for Rice Datathon 2025 - Neurotech@Rice Track
-
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Rice Datathon 2025 organizers
 - Neurotech@Rice for providing the dataset
-- Open-source community for the amazing tools
-
 ---
-
-**Note**: This project is for educational and competition purposes. The models are not intended for clinical diagnosis.
