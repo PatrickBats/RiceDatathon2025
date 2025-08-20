@@ -2,7 +2,7 @@
 ## Rice Datathon 2025 - Neurotech Track 🥈
 
 
-**🏆 2nd Place Winner - Rice Datathon 2025 Neurotech@Rice Track**
+** 2nd Place Winner - Rice Datathon 2025 Neurotech@Rice Track**
 
 A machine learning approach to classify neurological disorders using EEG (Electroencephalography) data. This project implements multiple classification algorithms to identify various neurological conditions from brain wave patterns.
 
