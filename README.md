@@ -6,7 +6,7 @@
 
 A machine learning approach to classify neurological disorders using EEG (Electroencephalography) data. This project implements multiple classification algorithms to identify various neurological conditions from brain wave patterns.
 
-## 🏆 Competition Overview
+##  Competition Overview
 
 This project was developed for the Rice Datathon 2025 Neurotech Track, focusing on the automated diagnosis of neurological disorders through EEG signal analysis.
 
