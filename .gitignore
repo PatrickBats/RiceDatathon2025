@@ -1,0 +1,95 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Data files (too large for version control)
+data/
+*.csv
+*.xlsx
+*.xls
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+
+# Results and outputs (can be regenerated)
+results/
+output/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# R specific
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Documentation builds
+docs/_build/
+docs/.doctrees/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+
+# Model files (can be large)
+*.h5
+*.model
+*.joblib
+*.sav
+
+# AI Assistant Documentation
+CLAUDE.md
+
+# Keep empty directories
+!data/.gitkeep
+!results/.gitkeep
+!docs/.gitkeep
