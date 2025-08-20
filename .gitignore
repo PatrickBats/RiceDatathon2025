@@ -85,8 +85,6 @@ docs/.doctrees/
 *.model
 *.joblib
 *.sav
-
-# AI Assistant Documentation
 CLAUDE.md
 
 # Keep empty directories
